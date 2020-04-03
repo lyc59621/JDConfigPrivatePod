@@ -53,10 +53,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "CasaTaloyum" => "casatwy@msn.com" }
-  # Or just: s.author    = "CasaTaloyum"
-  # s.authors            = { "CasaTaloyum" => "casatwy@msn.com" }
-  # s.social_media_url   = "http://twitter.com/CasaTaloyum"
+  s.author             = { "JDragon" => "casatwy@msn.com" }
+  # Or just: s.author    = "JDragon"
+  # s.authors            = { "JDragon" => "casatwy@msn.com" }
+  # s.social_media_url   = "http://twitter.com/lyc59621"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #

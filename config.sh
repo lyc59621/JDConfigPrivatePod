@@ -106,7 +106,7 @@ git rm -rf --cached ./Pods/     &> /dev/null
 git rm --cached Podfile.lock    &> /dev/null
 git rm --cached .DS_Store       &> /dev/null
 git rm -rf --cached $projectName.xcworkspace/           &> /dev/null
-git rm -rf --cached $projectName.xcodeproj/xcuserdata/`whoami`.xcuserdatad/xcschemes/$projectName.xcscheme &> /dev/null
+git rm -rf --cached $projectName.xcodeproj/xcuserdata/`JDragon`.xcuserdatad/xcschemes/$projectName.xcscheme &> /dev/null
 git rm -rf --cached $projectName.xcodeproj/project.xcworkspace/xcuserdata/ &> /dev/null
 echo "clean finished"
 say "finished"
