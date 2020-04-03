@@ -17,5 +17,5 @@ git add .
 git commit -am ${NewVersionNumber}
 git tag ${NewVersionNumber}
 git push origin master --tags
-cd ~/.cocoapods/repos/CasaPasswordRepositoryStore && git pull origin master && cd - && pod repo push CasaPasswordRepositoryStore __ProjectName__.podspec --verbose --allow-warnings --use-libraries
+cd ~/.cocoapods/repos/JDConfigPrivatePod && git pull origin master && cd - && pod repo push JDConfigPrivatePod __ProjectName__.podspec --verbose --allow-warnings --use-libraries
 
